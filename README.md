@@ -3,7 +3,7 @@
 # About Me:
 - I’m currently working on Python Lang
 - I’m currently learning C++, JAVA, HTML
-- Ask me about @sidharth69aio@gmail.com
+- Ask me about sidharth69aio@gmail.com
 - Fun fact I'm 17
 
 
