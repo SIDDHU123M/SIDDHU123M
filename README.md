@@ -22,6 +22,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHU123M&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SIDDHU123M&icon=8&color=9)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=SIDDHU123M&label=Profile%20Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SIDDHU123M&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
