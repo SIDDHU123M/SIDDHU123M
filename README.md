@@ -23,3 +23,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SIDDHU123M&icon=8&color=9)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=SIDDHU123M&label=Profile%20Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
