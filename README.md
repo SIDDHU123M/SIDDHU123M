@@ -4,7 +4,7 @@
 ✔️ ʜɪ, ɪ'ᴍ sɪᴅʜᴀʀᴛʜ .<br>
 ✔️ ᴘʀᴏɴᴏᴜɴ :- ʜᴇ/ʜɪᴍ .<br>
 ✔️ ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄʀᴀᴄᴋɪɴɢ, ᴘʀᴏɢʀᴀᴍᴍɪɴɢ .<br>
-✔️ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- <a href="https://t.me/ImAngel_girl">ᴛᴇʟᴇɢʀᴀᴍ</a><br>
+✔️ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- <a href="https://www.instagram.com/sidhart_h69">Instagram</a><br>
 
 
 # Socials:
