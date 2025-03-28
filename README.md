@@ -36,7 +36,7 @@
 ### Connect and Follow My Journey!
 
 <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="500" />
+  <img align="right" width="200" height="200" src="https://media.tenor.com/kJuDMXGW8awAAAAi/pokemon-gengar.gif" />
 </div>
 
 ---
