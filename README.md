@@ -1,16 +1,5 @@
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
-
 # About Me
-
-**Just Sidharth..**  
-📩 Contact Me on [Instagram](https://www.instagram.com/sidhart_h69)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIDDHU123M&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&order=1" width="400" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SIDDHU123M&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="400" height="150" alt="Languages Graph" />
-</div>
+**Just Sidharth..** 
 
 ---
 
@@ -35,8 +24,23 @@
 
 ### Connect and Follow My Journey!
 
+### Connect and Follow My Journey!
+
+<div align="center">
+  <a href="https://www.instagram.com/sidhart_h69">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40" alt="Instagram" style="filter: invert(14%) sepia(78%) saturate(749%) hue-rotate(315deg) brightness(93%) contrast(90%);" />
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="40" height="40" alt="Twitter" style="filter: invert(30%) sepia(92%) saturate(568%) hue-rotate(182deg) brightness(96%) contrast(92%);" />
+  </a>
+  <a href="https://t.me/im_x_slayer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="40" height="40" alt="Telegram" style="filter: invert(40%) sepia(74%) saturate(500%) hue-rotate(176deg) brightness(100%) contrast(100%);" />
+  </a>
+  <a href="https://discord.gg/sidhart_h69">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="40" height="40" alt="Discord" style="filter: invert(36%) sepia(81%) saturate(600%) hue-rotate(240deg) brightness(95%) contrast(90%);" />
+  </a>
+</div>
+
 <div align="center">
   <img align="right" width="200" height="200" src="https://media.tenor.com/kJuDMXGW8awAAAAi/pokemon-gengar.gif" />
 </div>
-
----
