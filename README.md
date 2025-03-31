@@ -24,8 +24,6 @@
 
 ### Connect and Follow My Journey!
 
-### Connect and Follow My Journey!
-
 <div align="center">
   <a href="https://www.instagram.com/sidhart_h69">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40" alt="Instagram" style="filter: invert(14%) sepia(78%) saturate(749%) hue-rotate(315deg) brightness(93%) contrast(90%);" />
