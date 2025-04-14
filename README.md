@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Siddhu 👋</h1>
+<h1 align="center">Hey, I'm Sidharth 👋</h1>
 <p align="center">
   Passionate Full-Stack Dev 💻 | JavaScript, Node.js, Python  
   React ⚛️ • TypeScript 💙 • SQL 🧠 • DSA • Prompt Engineering 🤖  
