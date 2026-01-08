@@ -14,16 +14,6 @@
 
 ---
 
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://t.me/im_x_slayer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://discord.gg/sidhart_h69"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.instagram.com/sidhart_h69"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
