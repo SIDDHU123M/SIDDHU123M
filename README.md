@@ -1,85 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,20&height=250&section=header&text=Sidharth&fontSize=90&fontColor=0abdc6&animation=fadeIn&fontAlign=50&desc=Net-Runner%20%7C%20Code%20Architect&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1013,50:15191f,100:ff6b2c&height=220&section=header&text=SIDHARTHA.&fontSize=72&fontColor=e8ebef&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20DevLune%20Studio&descSize=18&descAlignY=72" width="100%" alt=""/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=System.init(Cyberpunk_Protocol);Building+Scalable+Web+Apps...;Crafting+Python+Scripts...;Deploying+AI+Agents...;Full+Stack+Developer&font=Fira+Code&center=true&width=500&height=30&color=00ff9f&vCenter=true&size=20&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+design%2C+build%2C+and+ship+complete+products.;Web+platforms+%C2%B7+Android+apps+%C2%B7+Desktop+tools;React+%C2%B7+Node+%C2%B7+TypeScript+%C2%B7+Kotlin;No+hand-offs.+No+middlemen.&font=Fira+Code&center=true&width=520&height=32&color=ff6b2c&vCenter=true&size=17&pause=1200" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-
-<br/>
-
-<img src="https://i.imgur.com/4ASafy0.gif" width="100%" style="border-radius: 10px;" alt="Cyberpunk Cityscape" />
 
 <br/><br/>
 
 <p align="center">
-  <a href="https://github.com/SIDDHU123M" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9f" alt="GitHub"/>
+  <a href="https://sidharth69.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e1013?style=for-the-badge&logo=googlechrome&logoColor=ff6b2c" alt="Portfolio"/>
+  </a>
+  <a href="https://devlune.in" target="_blank">
+    <img src="https://img.shields.io/badge/🌙_DevLune-0e1013?style=for-the-badge" alt="DevLune"/>
   </a>
   <a href="https://www.linkedin.com/in/sidharth69/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b8ff" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0e1013?style=for-the-badge&logo=linkedin&logoColor=e8ebef" alt="LinkedIn"/>
   </a>
   <a href="mailto:sidharth@devlune.in">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff008d" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0e1013?style=for-the-badge&logo=gmail&logoColor=e8ebef" alt="Email"/>
   </a>
 </p>
 
-<br/>
+</div>
 
-<h3>⚡ The Toolkit</h3>
+---
+
+<div align="center">
+
+### About
+
+One-man software studio out of Hyderabad, India.<br/>
+I run **[DevLune Studio](https://devlune.in)** — design, code, deployment, and production support, end to end.<br/>
+**10 projects in production · 500+ users · shipping since 2023.**
+
+</div>
+
+---
+
+<div align="center">
+
+### Featured Work
+
+</div>
+
+| Project | What it is | Built with | |
+|---|---|---|---|
+| **[Membrain](https://membrain.devlune.in)** | Open-source self-hosted AI memory server — one shared memory store for you and all your AI agents, over MCP. On npm as `membrain-mcp`. | Node.js · TypeScript · SQLite · sqlite-vec · React 19 | [![npm](https://img.shields.io/badge/npm-0e1013?style=flat-square&logo=npm&logoColor=ff6b2c)](https://www.npmjs.com/package/membrain-mcp) |
+| **[FruitPlaza](https://fruitplaza.in)** | Subscription food-delivery platform — geo-fenced regions, tamper-proof payments, admin panel, Android apps. | React · Supabase · Razorpay · Kotlin | 🟢 live |
+| **[Kamyaa](https://kamyaa.store)** | Luxury candle e-commerce — referral engine, dynamic theming, real-time admin dashboard. | React · Supabase · Razorpay | 🟢 live |
+| **[CK MART](https://ckmart.store)** | Grocery delivery PWA — real-time order tracking, multi-role access. | React · Supabase Realtime · PWA | 🟢 live |
+| **[SysWatch](https://play.google.com/store/apps/details?id=in.devlune.syswatch)** | Real-time PC hardware monitor on your phone — Kotlin app + Rust host agent. | Kotlin · Rust · Supabase | 🟢 Google Play |
+| **[Webmaster](https://webmaster.devlune.in)** | Cookieless, privacy-first web analytics. | Next.js 14 · Cloudflare Workers · ClickHouse | 🟢 live |
+| **[LearnFlow](https://learnflow.devlune.in)** | Cross-platform course player — desktop + web, Google Drive streaming. | Tauri 2 · React · Firebase | 🟢 open beta |
+| **[Humanize](https://humanize.devlune.in)** | Rewrites AI-generated text into natural human prose. | Next.js · Edge · LLM pipeline | 🟢 live |
+| **[DevFolio](https://codehubx.tech)** | AI-powered developer portfolio builder with GitHub integration. | React · Supabase · Gemini | 🟢 live |
+| **[K-Stream Gold](https://kstream.net)** | Streaming discovery platform for movies, TV, and anime. | React · Supabase · TMDB · AniList | 🟢 live |
+
+---
+
+<div align="center">
+
+### Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00b8ff" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff9f" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00b8ff" />
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=9400c7" />
+  <img src="https://img.shields.io/badge/TypeScript-0e1013?style=for-the-badge&logo=typescript&logoColor=e8ebef" />
+  <img src="https://img.shields.io/badge/JavaScript-0e1013?style=for-the-badge&logo=javascript&logoColor=e8ebef" />
+  <img src="https://img.shields.io/badge/Kotlin-0e1013?style=for-the-badge&logo=kotlin&logoColor=e8ebef" />
+  <img src="https://img.shields.io/badge/Python-0e1013?style=for-the-badge&logo=python&logoColor=e8ebef" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=ff008d" />
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ff008d" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff9f" />
-  <img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=9400c7" />
+  <img src="https://img.shields.io/badge/React-0e1013?style=for-the-badge&logo=react&logoColor=e8ebef" />
+  <img src="https://img.shields.io/badge/Next.js-0e1013?style=for-the-badge&logo=nextdotjs&logoColor=e8ebef" />
+  <img src="https://img.shields.io/badge/Node.js-0e1013?style=for-the-badge&logo=nodedotjs&logoColor=e8ebef" />
+  <img src="https://img.shields.io/badge/Tauri-0e1013?style=for-the-badge&logo=tauri&logoColor=e8ebef" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-0e1013?style=for-the-badge&logo=jetpackcompose&logoColor=e8ebef" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00ff9f" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00b8ff" />
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ff008d" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00b8ff" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff008d" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff9f" />
-  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00b8ff" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00b8ff" />
+  <img src="https://img.shields.io/badge/Supabase-0e1013?style=for-the-badge&logo=supabase&logoColor=e8ebef" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0e1013?style=for-the-badge&logo=postgresql&logoColor=e8ebef" />
+  <img src="https://img.shields.io/badge/Firebase-0e1013?style=for-the-badge&logo=firebase&logoColor=e8ebef" />
+  <img src="https://img.shields.io/badge/Cloudflare-0e1013?style=for-the-badge&logo=cloudflare&logoColor=e8ebef" />
+  <img src="https://img.shields.io/badge/Vercel-0e1013?style=for-the-badge&logo=vercel&logoColor=e8ebef" />
 </p>
 
-<br/>
+---
 
-<h3>📊 Performance Metrics</h3>
+### GitHub Activity
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIDDHU123M&theme=github_dark" alt="Profile Details" width="100%"/>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIDDHU123M&theme=github_dark" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SIDDHU123M&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIDDHU123M&theme=github_dark" alt="Repos Per Language" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SIDDHU123M&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%"/>
 </p>
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIDDHU123M&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SIDDHU123M&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDHU123M&bg_color=0e1013&color=e8ebef&line=ff6b2c&point=ff6b2c&area=true&area_color=ff6b2c&hide_border=true" width="100%" alt="Activity Graph" />
 
-<br/>
+---
 
-<h3>📈 Contribution Graph</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDHU123M&bg_color=0d1117&color=79fe96&line=bd5fff&point=9e4c98&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<sub>**sidharth69.in** · same-day reply, usually</sub>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,ff008d,711c91,0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b2c,50:15191f,100:0e1013&height=90&section=footer" width="100%" alt=""/>
 
 </div>
