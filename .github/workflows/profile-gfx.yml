@@ -1,0 +1,42 @@
+name: Generate profile graphics
+
+# One job owns the `output` branch: the README graphics (dist/gfx) and the contribution snake.
+# Two workflows pushing a build dir to the same branch would wipe each other's files.
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily, so stars and the contribution calendar stay current
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/profile-gfx.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: SIDDHU123M
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      - name: Render README graphics
+        run: node scripts/gfx.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
