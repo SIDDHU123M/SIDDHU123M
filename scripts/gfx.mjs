@@ -38,6 +38,8 @@ const PRODUCTS = [
 ];
 
 // Public repos. Language and stars come from the API; a name that no longer exists fails the run.
+// Entries are { repo, action } or objects pasted from repo-sweep's "Copy JSON" ({ name, description, ... });
+// action falls back to the description. CHIPS take names or the same objects.
 const ROWS = [
   { repo: "Streaming-URL-FInder", action: "finds video stream URLs in a page" },
   { repo: "Ultimate-Proxy-Scraper", action: "regex proxy harvester" },
@@ -336,10 +338,12 @@ const repo = (name) => {
   return r;
 };
 const rows = ROWS.map((r) => {
-  const g = repo(r.repo);
-  return { title: g.name, href: g.html_url, action: r.action, meta: [g.language, `${g.stargazers_count} ${g.stargazers_count === 1 ? "star" : "stars"}`].filter(Boolean).join(" · ") };
+  const g = repo(r.repo || r.name);
+  const action = r.action || r.description || g.description;
+  if (!action) throw new Error(`"${g.name}" has no action text and no description`);
+  return { title: g.name, href: g.html_url, action, meta: [g.language, `${g.stargazers_count} ${g.stargazers_count === 1 ? "star" : "stars"}`].filter(Boolean).join(" · ") };
 });
-const chips = CHIPS.map((name) => ({ label: name, href: repo(name).html_url }));
+const chips = CHIPS.map((c) => { const name = typeof c === "string" ? c : c.name; return { label: name, href: repo(name).html_url }; });
 const STRIPS = [["Selected work", `${PRODUCTS.length} products, one author`], ["Open source", "public repositories"], ["Elsewhere", "smaller repositories"]];
 
 mkdirSync(`${ROOT}dist/gfx`, { recursive: true });
